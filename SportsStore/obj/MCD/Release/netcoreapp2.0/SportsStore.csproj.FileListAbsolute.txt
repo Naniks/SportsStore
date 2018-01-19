@@ -1,0 +1,11 @@
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\bin\MCD\Release\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\bin\MCD\Release\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\bin\MCD\Release\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\bin\MCD\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\bin\MCD\Release\netcoreapp2.0\SportsStore.pdb
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\Ольга\source\repos\Server\SportsStore\SportsStore\obj\MCD\Release\netcoreapp2.0\SportsStore.pdb
